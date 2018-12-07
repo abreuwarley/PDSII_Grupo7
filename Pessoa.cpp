@@ -15,7 +15,7 @@ void Pessoa::modificar()
 {
 }
 
-void Pessoa::listar()
+std::vector<Pessoa *> Pessoa::listar()
 {
 }
 

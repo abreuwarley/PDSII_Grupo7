@@ -5,6 +5,7 @@
 #include <map>
 #include "Material.h"
 #include <functional>
+#include <vector>
 
 class Pessoa : public Usuario
 {
@@ -32,7 +33,7 @@ public:
 
 	static void modificar();
 
-	static void listar();
+	static std::vector<Pessoa *> listar();
 
 	static void pesquisar();
 	

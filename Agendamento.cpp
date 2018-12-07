@@ -1,7 +1,7 @@
 #include <iostream>
-#include "Agendamento.h"
+#include "Agendamento.hpp"
 
-int main(){
+int main2(){
 
 	
 	

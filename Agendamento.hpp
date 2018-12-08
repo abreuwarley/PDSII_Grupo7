@@ -19,7 +19,7 @@ protected:
 	Material _material;
 
 private:
-	Agendameto(){};
+	Agendamento(){};
 	
 	~Agendamento(){};
 	
